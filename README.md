@@ -83,9 +83,13 @@ ORIGINAL:
 <img width="1666" height="285" alt="Screenshot 2026-02-23 134651" src="https://github.com/user-attachments/assets/fdfbd032-a788-4db2-9431-f9ff2259c314" />
 
 
+
+
 REGULAR DIFFERENCING:
 
 <img width="749" height="138" alt="Screenshot 2026-02-23 134700" src="https://github.com/user-attachments/assets/9321930c-bbc2-4482-a6a9-de0d9ac9e881" />
+
+
 
 
 SEASONAL ADJUSTMENT:
@@ -93,12 +97,18 @@ SEASONAL ADJUSTMENT:
 <img width="777" height="135" alt="Screenshot 2026-02-23 134802" src="https://github.com/user-attachments/assets/fafa5b65-0d39-4c52-ba3f-279f7616de66" />
 
 
+
+
 LOG TRANSFORMATION:
 
 <img width="764" height="144" alt="Screenshot 2026-02-23 134810" src="https://github.com/user-attachments/assets/a1f09bd8-5f7d-4c12-bda0-44ce37bbb852" />
 
+
+
 LOG AND REGULAR:
 <img width="693" height="127" alt="Screenshot 2026-02-23 134816" src="https://github.com/user-attachments/assets/d5d9520e-1c6a-4e99-9b35-ab42941570b3" />
+
+
 
 LOG+REGULAR+SEASONAL:
 
