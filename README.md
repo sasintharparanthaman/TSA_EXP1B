@@ -79,29 +79,32 @@ plt.show()
 
 
 ORIGINAL:
-<img width="1001" height="547" alt="orig" src="https://github.com/user-attachments/assets/6588a29c-0066-4c8e-bbff-cb2a4422790d" />
+<img width="1666" height="285" alt="Screenshot 2026-02-23 134651" src="https://github.com/user-attachments/assets/c27d2355-934f-4ae9-956a-99d53802b021" />
 
 
 REGULAR DIFFERENCING:
 
-<img width="999" height="547" alt="regu" src="https://github.com/user-attachments/assets/bd44e7bb-e994-4276-96ef-bd740df17df8" />
+<img width="749" height="138" alt="Screenshot 2026-02-23 134700" src="https://github.com/user-attachments/assets/4cb2df83-a273-4049-bf83-88fb91a00b7e" />
+
 
 SEASONAL ADJUSTMENT:
 
-<img width="999" height="547" alt="seas" src="https://github.com/user-attachments/assets/3ff1c9f0-8081-4602-95e9-35088fde7979" />
+<img width="777" height="135" alt="Screenshot 2026-02-23 134802" src="https://github.com/user-attachments/assets/deca82ef-1084-4c7d-bfbd-3a4708a3eae0" />
+
 
 LOG TRANSFORMATION:
-<img width="997" height="547" alt="log" src="https://github.com/user-attachments/assets/a31a9a81-ae7a-4b34-93b1-f697947a9831" />
+
+<img width="764" height="144" alt="Screenshot 2026-02-23 134810" src="https://github.com/user-attachments/assets/cbbffba0-a8e1-4f51-b611-ee85aa9c6b6e" />
 
 
 LOG AND REGULAR:
-<img width="999" height="547" alt="log+reg" src="https://github.com/user-attachments/assets/a15e9162-ae9b-45c9-a2b3-ff378219888b" />
 
+<img width="693" height="127" alt="Screenshot 2026-02-23 134816" src="https://github.com/user-attachments/assets/6a63a7f1-8627-4848-a00f-295280be97dd" />
 
 LOG+REGULAR+SEASONAL:
-<img width="999" height="547" alt="log+reg+seas" src="https://github.com/user-attachments/assets/8165414b-b293-46c7-828a-26daca706f73" />
 
 
+<img width="830" height="135" alt="Screenshot 2026-02-23 134824" src="https://github.com/user-attachments/assets/eb0259b2-5c02-4f69-8114-cc8bdf4a0887" />
 
 
 
